@@ -1,0 +1,3 @@
+Sub ClearSheet()
+Sheets("AHL").Cells.Clear
+End Sub
